@@ -14,8 +14,7 @@ Hi, I'm Vitor Benosse.
 
 I'm a Full Stack Developer from Brazil 💚, **18 years old** 👶🏻 and **1 year of coding** 🧐.  
 
-* 🌱 I’m currently learning Reactjs, React Native, Nodejs and native Android Development with Kotlin.
-* 👽 Learning any tecnology that apears on my way.
+* 🌱 I’m currently learning native Android development with Kotlin.
 
 ----
 
