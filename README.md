@@ -1,5 +1,6 @@
 ### 👋 Hello World, I'm Vitor!  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
+[![Medium Badge](https://img.shields.io/badge/-Medium-000?style=flat-square&logo=Medium&logoColor=white&&link=https://vitorbenosse.medium.com/)](https://vitorbenosse.medium.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-benosse/)](https://www.linkedin.com/in/vitor-benosse/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vitorbenosse@gmail.com)](mailto:vitorbenosse@gmail.com)
 
@@ -9,7 +10,7 @@
 
 Hi, I'm Vitor Benosse. 
 
-I'm a Full Stack Developer from Brazil 💚, **18 years old** 👶🏻 and **1 year of coding** 🧐.  
+I'm a Full Stack Developer from Brazil 💚, **19 years old** and **1 year of coding** 🧐.  
 
 * 🌱 I’m currently learning native Android development with Kotlin.
 
