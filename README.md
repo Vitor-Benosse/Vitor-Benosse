@@ -10,9 +10,9 @@
 
 Hi, I'm Vitor Benosse. 
 
-I'm a Full Stack Developer from Brazil 💚, **19 years old** and **1 year of coding** 🧐.  
+I'm a Software Developer from Brazil 💚, **19 years old** and **1 year of coding** 🧐.  
 
-* 🌱 I’m currently learning native Android development with Kotlin.
+* 🌱 I’m currently constantly learning and working with native Android development with Kotlin and eventually some Java.
 
 ----
 
